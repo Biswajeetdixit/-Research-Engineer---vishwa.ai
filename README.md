@@ -16,7 +16,7 @@ The project is structured into separate components for data loading, model infer
 - CLI runner for quick experiments and batch evaluation
 
 ## Project Structure
-
+```
 ├── app.py                  # Streamlit UI for manual input and summary generation
 ├── dataloader_module.py   # Data loading and tokenization
 ├── evaluator.py           # ROUGE-based evaluation class
@@ -25,7 +25,7 @@ The project is structured into separate components for data loading, model infer
 ├── main.py                # Command-line interface for batch processing
 ├── requirements.txt       # Python dependencies
 
-
+```
 
 ## Setup Instructions
 
