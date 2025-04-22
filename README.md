@@ -70,17 +70,17 @@ facebook/bart-base is used as the base summarization model.
 
 You can easily replace it with other Hugging Face models like t5-small, pegasus-xsum, etc.
 
-##Dataset
+## Dataset
 Dataset: SAMSum
 
 Description: A collection of short dialogues paired with human-written summaries.
 
-##Evaluation
+## Evaluation
 Evaluation metric: ROUGE (Recall-Oriented Understudy for Gisting Evaluation)
 
 Metric is calculated using the Hugging Face evaluate package
 
-##Notes
+## Notes
 The code uses no external APIs — all models are hosted and run locally
 
 All scripts are written with extensibility and clarity in mind
