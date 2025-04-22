@@ -1,0 +1,8 @@
+transformers==4.39.3
+datasets==2.18.0
+torch>=1.13
+evaluate==0.4.0
+absl-py
+rouge-score
+nltk
+
