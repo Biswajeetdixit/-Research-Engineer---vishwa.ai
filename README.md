@@ -34,18 +34,20 @@ The project is structured into separate components for data loading, model infer
 ```bash
 git clone <your-repo-url>
 cd <your-repo-folder>
-
+```
 ### 2. Create Virtual Environment (Optional)
 
+```
 cd C:\Users\biswa\Desktop\Assignment_for_companyes\Vishwa.ai
 python -m venv biswajeet
 biswajeet\Scripts\activate
-
+```
 
 
 ### 3. Install Requirements
-
+```
 pip install -r requirements.txt
+```
 
 
 
