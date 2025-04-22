@@ -32,8 +32,9 @@ The project is structured into separate components for data loading, model infer
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone
+https://github.com/Biswajeetdixit/-Research-Engineer---vishwa.ai
+
 ```
 ### 2. Create Virtual Environment (Optional)
 
